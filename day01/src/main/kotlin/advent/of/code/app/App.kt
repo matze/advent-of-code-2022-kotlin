@@ -1,4 +1,4 @@
-package advent.of.code.app
+package advent.of.code.app.day01
 
 import java.io.File;
 

@@ -11,5 +11,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("advent.of.code.app.day01.AppKt")
+    mainClass.set("advent.of.code.app.day03.AppKt")
 }
